@@ -8,6 +8,6 @@ body , button {
 }
 
 a:visited , a:link , a:hover, a:active {
-	color							: #111;
+	color							: #333;
 	text-decoration					: none;
 }
