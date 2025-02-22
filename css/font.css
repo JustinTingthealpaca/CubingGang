@@ -1,14 +1,13 @@
 body , button {
-	font-family                     : Futura, "Trebuchet MS", Arial, sans-serif;
-	font-style                      : normal;
-	font-variant                    : normal;
-	line-height                     : 23px;
-	text-align                      : center ;
-	margin-top                      : 50px;
-	line-height						: 25px;
+	font-family     : Futura, "Trebuchet MS", Arial, sans-serif;
+	font-style      : normal;
+	font-variant    : normal;
+	text-align      : center ;
+	margin-top      : 50px;
+	line-height     : 35px;
 }
 
 a:visited , a:link , a:hover, a:active {
-	color							: #333;
-	text-decoration					: none;
+	color           : #333;
+	text-decoration	: none;
 }

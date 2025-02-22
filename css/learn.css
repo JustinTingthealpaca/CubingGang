@@ -1,0 +1,14 @@
+/* Discord Join Button */
+.discordJoinSection {
+	position						: fixed;
+	bottom							: 12px;
+	width							: -webkit-fill-available;
+}
+.discordJoin {
+	position						: automatic;
+	background-color				: #eeeeee;
+	color						    : #494949;
+}
+.discordJoin:hover {
+	color							: #494977;
+}
