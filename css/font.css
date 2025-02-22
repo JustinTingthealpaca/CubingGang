@@ -5,6 +5,7 @@ body , button {
 	line-height                     : 23px;
 	text-align                      : center ;
 	margin-top                      : 50px;
+	line-height						: normal;
 }
 
 a:visited , a:link , a:hover, a:active {
